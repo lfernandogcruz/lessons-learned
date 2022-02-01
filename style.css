@@ -6,3 +6,15 @@ header {
     position: fixed;
     top: 0;
 }
+
+section {
+    display: inline-block;
+}
+
+#licoes_aprendidas {
+    color: black;
+}
+
+#licoes_a_aprender {
+    color: black;
+}
