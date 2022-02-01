@@ -11,6 +11,10 @@ section {
     display: inline-block;
 }
 
+footer {
+    color: black;
+}
+
 #licoes_aprendidas {
     color: black;
 }
