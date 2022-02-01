@@ -26,3 +26,11 @@ footer {
 #link-trybe {
     text-decoration: none;
 }
+
+#meu-aprendizado {
+    display: block;
+    width: 500px;
+    border: black solid;
+    padding: 5px 5px 5px 5px;
+    overflow: auto;
+}
