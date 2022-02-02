@@ -10,19 +10,25 @@ body {
 header {
         position: fixed;
         vertical-align: top;
-        display: inline-block;
         width: 100%;
+        background-color: rgb(233, 216, 166);
 }
 
 section {
         display: inline-block;
 }
 
+main {
+        display: inline-block;
+        width: 65%;
+        margin-left: 2%;    
+}
+
 aside {
         display: inline-block;
         margin-top: 0;
-        margin-right: 0;
-        width: 250px;
+        margin-right: 2%;
+        width: 25%;
         box-align: right;
         border: black solid;
         padding: 5px;
@@ -39,42 +45,52 @@ footer {
 #titulo {
         display: inline-block;
         width: 40%;
+        margin: 0;
 } 
-
-#link-trybe {
-    text-decoration: none;
-}
 
 #menu-links {
         display: inline-block;
         width: 40%;
+        margin: 0;
+        margin-left: 19.71%;
+}
+
+#menu-links a {
+        display: inline-block;
 }
 
 #minha_foto {
+        display: block;
         margin-top: 10%;
         width: 250px;
 }
 
 .lado-esquerdo {
         display: inline-block;
+        margin-left: 5px;
+        width: 45%;
 }
 
-#licoes_aprendidas {
-        display: block;
+#lessons-learned {
+        display: inline-block;
         color: black;
+        width: 40%;
+        margin-right: 5%;
 }
 
-#licoes_a_aprender {
+#lessons-yet-to-be-learned {
+        display: inline-block;
         color: black;
+        width: 25%;
 }
 
 .lado-direito {
-    display: inline-block;
+        display: inline-block;
+        width: 45%;
 }
 
 #meu-aprendizado {
         display: inline-block;
-        width: 500px;
         border: black solid;
         padding: 5px;
         overflow: auto;
@@ -90,3 +106,7 @@ footer {
 #div-listas {
     display: inline-block;
 }
+
+
+bege rgb (233,216,166)
+marrom rgb (61,52,25)
