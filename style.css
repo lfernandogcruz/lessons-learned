@@ -39,7 +39,9 @@ aside {
 }
 
 footer {
+  margin-top: 5%;
   color: black;
+  background-color: rgb(233, 216, 166);
 }
 
 #titulo {
@@ -102,5 +104,5 @@ footer {
 }
 
 /* cores
-bege rgb (233,216,166)
-marrom rgb (61,52,25) */
+bege rgb(233,216,166)
+marrom rgb(61,52,25) */
