@@ -1,116 +1,111 @@
 * {
-        margin: 0;
-        padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 header {
-        position: fixed;
-        vertical-align: top;
-        width: 100%;
-        background-color: rgb(233, 216, 166);
+  position: fixed;
+  vertical-align: top;
+  width: 100%;
+  background-color: rgb(233, 216, 166);
 }
 
 section {
-        display: inline-block;
+  display: inline-block;
 }
 
 main {
-        display: inline-block;
-        width: 65%;
-        margin-left: 2%;    
+  display: inline-block;
+  width: 65%;
+  margin-left: 2%;
+  margin-top: 5%;
 }
 
 aside {
-        display: inline-block;
-        margin-top: 0;
-        margin-right: 2%;
-        width: 25%;
-        box-align: right;
-        border: black solid;
-        padding: 5px;
-        overflow: auto;
-        font-family: 'Times New Roman', Times, serif;
-        font-style: italic;
-
+  display: inline-block;
+  margin-top: 0;
+  margin-right: 2%;
+  width: 25%;
+  align-self: right;
+  border: black solid;
+  padding: 5px;
+  overflow: auto;
+  font-family: Times, serif;
+  font-style: italic;
 }
 
 footer {
-        color: black;
+  color: black;
 }
 
 #titulo {
-        display: inline-block;
-        width: 40%;
-        margin: 0;
-} 
+  display: inline-block;
+  width: 40%;
+  margin: 0;
+}
 
 #menu-links {
-        display: inline-block;
-        width: 40%;
-        margin: 0;
-        margin-left: 19.71%;
+  display: inline-block;
+  width: 40%;
+  margin: 0;
+  margin-left: 19.71%;
 }
 
 #menu-links a {
-        display: inline-block;
+  display: inline-block;
 }
 
 #minha_foto {
-        display: block;
-        margin-top: 10%;
-        width: 250px;
+  display: block;
+  width: 250px;
 }
 
 .lado-esquerdo {
-        display: inline-block;
-        margin-left: 5px;
-        width: 45%;
+  display: inline-block;
+  margin-left: 5px;
+  width: 45%;
 }
 
 #lessons-learned {
-        display: inline-block;
-        color: black;
-        width: 40%;
-        margin-right: 5%;
+  display: inline-block;
+  color: black;
+  width: 40%;
+  margin-right: 5%;
 }
 
 #lessons-yet-to-be-learned {
-        display: inline-block;
-        color: black;
-        width: 25%;
+  display: inline-block;
+  color: black;
+  width: 25%;
 }
 
 .lado-direito {
-        display: inline-block;
-        width: 45%;
+  display: inline-block;
+  width: 45%;
 }
 
 #meu-aprendizado {
-        display: inline-block;
-        border: black solid;
-        padding: 5px;
-        overflow: auto;
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 1.1em;
-        line-height: 1.1em;
+  display: inline-block;
+  border: black solid;
+  padding: 5px;
+  overflow: auto;
+  font-family: Times, serif;
+  font-size: 1.1em;
+  line-height: 1.1em;
 }
 
 #foto-article {
-    display: block;
+  display: block;
 }
 
 #div-listas {
-    display: inline-block;
+  display: inline-block;
 }
 
-/* 
-
-cores
+/* cores
 bege rgb (233,216,166)
-marrom rgb (61,52,25) 
-
-*/
+marrom rgb (61,52,25) */
