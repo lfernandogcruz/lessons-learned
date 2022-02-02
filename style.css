@@ -27,12 +27,12 @@ main {
 
 aside {
   display: inline-block;
-  margin-top: 0;
+  margin-top: 5%;
+  margin-left: 2%;
   margin-right: 2%;
   width: 25%;
-  align-self: right;
   border: black solid;
-  padding: 5px;
+  padding: 1%;
   overflow: auto;
   font-family: Times, serif;
   font-style: italic;
@@ -67,7 +67,7 @@ footer {
 .lado-esquerdo {
   display: inline-block;
   margin-left: 5px;
-  width: 45%;
+  width: 25%;
 }
 
 #lessons-learned {
@@ -81,11 +81,6 @@ footer {
   display: inline-block;
   color: black;
   width: 25%;
-}
-
-.lado-direito {
-  display: inline-block;
-  width: 45%;
 }
 
 #meu-aprendizado {
