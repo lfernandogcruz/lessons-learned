@@ -55,13 +55,21 @@ footer {
         width: 250px;
 }
 
-#licoes_aprendidas {
+.lado-esquerdo {
         display: inline-block;
+}
+
+#licoes_aprendidas {
+        display: block;
         color: black;
 }
 
 #licoes_a_aprender {
         color: black;
+}
+
+.lado-direito {
+    display: inline-block;
 }
 
 #meu-aprendizado {
